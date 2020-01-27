@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiatLeadImportService", "Fi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeadImportServiceAccess", "LeadImportServiceAccess\LeadImportServiceAccess.csproj", "{273270D7-49DF-4341-8260-CE1827089D22}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailboxAccess", "MailboxAccess\MailboxAccess.csproj", "{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{273270D7-49DF-4341-8260-CE1827089D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{273270D7-49DF-4341-8260-CE1827089D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{273270D7-49DF-4341-8260-CE1827089D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
