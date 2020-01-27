@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeadImportServiceAccess", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailboxAccess", "MailboxAccess\MailboxAccess.csproj", "{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{86C5D32A-8AC0-4326-A72F-AADA248E3156}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A5812E-D8B0-4669-AF23-24C7EECB1EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C5D32A-8AC0-4326-A72F-AADA248E3156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C5D32A-8AC0-4326-A72F-AADA248E3156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C5D32A-8AC0-4326-A72F-AADA248E3156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C5D32A-8AC0-4326-A72F-AADA248E3156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
